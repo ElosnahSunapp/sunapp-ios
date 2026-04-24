@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "17ffdb742a18bb906c1e9085e843a29e"
+build_time: [1571567207, 167856000]
+inputs:
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/TimeZoneLocate/Pod/Classes/TimeZoneLocate.swift": [9223372036, 854775807]

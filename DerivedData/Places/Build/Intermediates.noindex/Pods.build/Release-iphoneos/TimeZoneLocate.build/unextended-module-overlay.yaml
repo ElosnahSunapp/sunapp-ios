@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/TimeZoneLocate/TimeZoneLocate.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Intermediates.noindex/Pods.build/Release-iphoneos/TimeZoneLocate.build/unextended-module.modulemap',
+    }]
+  }]
+}

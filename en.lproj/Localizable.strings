@@ -1,0 +1,225 @@
+"app_name" = "SunApp";
+
+"live_button" = "Today";
+"live_content" = "Live\nCONTENT";
+
+"locationDenied_title" = "No location permission";
+
+"locationDenied" = "Location service is crucial for core functionality. Please go to your settings and give SunApp location permission";
+
+"calibrate" = "Calibrate";
+"manual_calibration" = "Manual calibration";
+"calibrated" = "Calibrated";
+"permissions_required" = "Permissions required";
+
+"cancel" = "Cancel";
+
+"choose_date" = "Choose a date";
+
+"save_error" = "Couldn't save screenshot";
+
+"saved" = "Saved!";
+"unfreeze" = "Orientation change went out of freeze";
+"saved_to_photos" = "A screenshot was saved to your photos";
+
+"jan" = "Jan.";
+"january" = "January";
+"feb" = "Feb.";
+"february" = "February";
+"mar" = "Mar.";
+"marts" = "March";
+"apr" = "Apr.";
+"april" = "April";
+"may" = "May";
+"jun" = "Jun.";
+"june" = "June";
+"jul" = "Jul.";
+"july" = "July";
+"aug" = "Aug.";
+"august" = "August";
+"sep" = "Sep.";
+"september" = "September";
+"oct" = "Oct.";
+"october" = "October";
+"nov" = "Nov.";
+"november" = "November";
+"dec" = "Dec.";
+"december" = "December";
+
+"hours" = "hours";
+"error" = "Error";
+"north" = "North";
+"ne" = "NE";
+"east" = "East";
+"se" = "SE";
+"south" = "South";
+"sw" = "SW";
+"west" = "West";
+"nw" = "NW";
+
+"below_horizon" = "Current view is below the horizon";
+"horizon" = "Horizon";
+"location_unavailable" = "Location service unavailable";
+"details" = "Details";
+"location" = "Location:";
+"manual_calibration_night" = "You can’t calibrate the compass manually, because the sun has set. You can only calibrate the compass when the sun position is above the horizon.";
+"compas_accuracy" = "Compass accuracy:";
+"compass_not_responding" = "Compass is not responding";
+"unreliable" = "Unreliable";
+"low" = "Low";
+"medium" = "Medium";
+"high" = "High";
+"compass_warning" = "Please calibrate the compass, current accuracy is:";
+
+"help" = "Help";
+"data" = "Data";
+"analemma" = "Toggle analemma";
+
+"loading" = "Loading...";
+"drag_the_yellow_circle_onto_the_sun" = "Drag the yellow sun image onto the real sun to calibrate the compass";
+"live" = "Today";
+"date" = "Date";
+"line" = "Line";
+"undo" = "Undo";
+"clear" = "Clear";
+"capture" = "Capture";
+"freeze" = "Freeze";
+"draw" = "Draw";
+
+"today" = "Today";
+"sunrise" = "Sunrise";
+"sunset" = "Sunset";
+"solar_noon" = "Solar noon";
+"day_length" = "Day length";
+"solstice_21_june" = "Solstice (21. June)";
+"soltice_21_december" = "Solstice (21. December)";
+
+"calibrate_the_internal_compass" = "Calibrate the internal compass by moving your device in the following manner:";
+"you_can_also_manually_calibrate" = "You can also manually calibrate the compass by clicking on the sun. (Only do this if the compass seems off by a constant factor)";
+"ok" = "OK";
+"reset" = "Reset";
+
+"language" = "Language";
+"choose_language" = "Choose language";
+"english" = "English";
+"danish" = "Dansk";
+"german" = "Deutsch";
+"spanish" = "Español";
+"french" = "Français";
+"portuguese" = "Português";
+
+"where_is_the_sun_at_a_given_time" = "Where is the sun at a given time?";
+"where_the_sun_is_answer" = "The time and date at the top of the screen is always connected to what is being displayed on the screen. The sun is at the yellow circle at the given timeframe.\n\nChange the date by clicking the calendar or touch the screen to set that to the sun's position.\nYou can also drag the sun along the current dateline or jump to current time by clicking the circle button.";
+"what_does_the_lines_represent" = "What do the lines represent?";
+"yellow_line" = "Yellow line";
+"yellow_line_answer" = "The yellow line shows the path of the sun on the defined date. You can also see where the sun will be every hour.";
+"red_and_orange_line" = "Red and orange line";
+"red_orange_answer" = "These lines show the path of the sun on the longest(orange) and shortest(red) day of the year. The sun will always be in between them.";
+"gray_line" = "Gray line";
+"gray_line_answer" = "The gray line is the horizon.";
+"blue_line" = "Blue line";
+"blue_line_answer" = "The blue line is an analemma for the current time of day. It can be toggled from settings and will always have an 8-shape. It shows where the sun will be at the current time of day for the whole year. It\'s the path the sun will take, if you take a picture every day at the same time for a year.";
+
+"button_descriptions" = "Button descriptions";
+"freeze_button_help" = "Freeze the camera and all sensory input.";
+"screenshot_help" = "Take a screenshot or record video of the current view.";
+"main_mode" = "Main mode";
+"live_help" = "Has a dot in the middle if time is live. Touch to go to current time.";
+"day_select_help" = "Choose a day to get the path of sun.";
+"draw_mode_help" = "Enter drawing mode where you can remove sun-hours/intensity by drawing.";
+"draw_mode" = "Draw mode";
+"straight_line_help" = "Toggle to draw straight lines instead of free hand.";
+"undo_line_help" = "Undo last line drawn.";
+"clear_everything_help" = "Clear everything and reset drawing.";
+"the_sun_isn_t_at_the_shown_position" = "The sun isn\'t at the shown position";
+"the_sun_isnt_at_the_shown_position_answer" = "This usually happens when the compass loses its accuracy. It can happen easily if you keep your phone in a casing.\nTo fix this, go to the calibration menu and follow the steps.\nIt works best to move the phone a lot around all axes which can also be done by waving it in an 8-figure and turning it around yourself.\n\nYou can also manually calibrate by clicking on the sun. This won\'t calibrate the internal compass, it will just move everything accordingly.\nYou should only do this if the compass is off by a constant factor but otherwise precise.";
+
+"how_does_the_drawing_mode_work" = "How does the drawing mode work?";
+"how_drawing_mode_works_answer" = "If you touch the drawing icon you\'ll enter drawing mode with new buttons.\n\nWhen you draw, the area between the horizon and your stroke is grayed out. This mode then tells you how many sun-hours or sun energy (kWh/m2) the gray area represents for a whole year.An example would be to draw an edge around a tree and see how many sun-hours or (kWh/m2) it would give to cut it down.\n\nThe freeze button freezes the camera and sensory input such that you don\'t need to hold your device still while drawing.\n\nYou can draw straight lines with the straight-line button.\n\nYou can also undo your last line by touching Undo or Clear everything to completely start over your drawing.\n \n You can switch the units to represent solar irradiance (kWh/m2) or sun hours in the menu under Settings. ";
+"why_are_there_two_dates_at_the_top" = "Why are there two dates at the top?";
+"two_dates_at_the_top_answer" = "The sun will be at any given point in the sky two times during the year, it shows both.\n\nYou can click either of the dates to set that as the current only date.";
+"contact_title" = "Contact SunApp support";
+"contact_description" = "If you have any questions or feedback about SunApp, don't hesitate to contact us at:";
+"advanced" = "Advanced";
+"sununits" = "Units";
+"unitsTitle" = "Get yearly sun exposure for";
+"hourunit" = "Sun hours";
+"solarirradiance" = "Irradiance";
+"record" = "Record";
+"camerafunction" = "Camera button";
+"cameraTitle" = "Camera button function";
+"takescreenshot" = "Take a screenshot";
+"recordvideo" = "Record video";
+"recordingfinished" = "Recording finished";
+"editordelete" = "Would you like to edit or delete your recording?";
+"edit" = "Edit";
+"delete" = "Delete";
+
+"premium_title" = "SunApp Premium";
+"premiumDesc1" = "Unlimited features.";
+"premiumDesc2" = "Draw AR shadow profiles and get the sun hours or intensity (kWh/m2) for a specific area in the sky to the horizon.";
+"premiumDesc3" = "Point at the screen and SunApp will show the date and time, the sun will be in that position.";
+"premiumDesc5" = "Choose a date and see the sun path in the sky for the day.";
+"premiumDesc6" = "Save AR Live View as a picture or video capture for later use.";
+"premiumDesc7" = "See the analemma of the sun for any given time.";
+"premiumDesc8" = "Shows the sunrise and sunset for any day.";
+"premiumDesc9" = "Shows how much sun light, in hours or sun energy (kWh/m2),  you can get in your position during the year.";
+"premiumDesc4" = "Search for address or location and get full insight into the sun's orbit shown on 2D maps, for any date year round.";
+"premiumDesc10" = "";
+"mo" = "mo.";
+"yr" = "yr.";
+"save" = "Save";
+"monthly" = "Monthly";
+"yearly" = "Yearly";
+
+"unknownError" = "Unknown Error. Please contact support via e-mail: support@casafox.dk";
+"restored" = "Your subscription has been restored.";
+"no_subscription" = "You are not subscribed";
+"no_restore" = "nothing to restore.";
+"success" = "Success";
+"subscribed" = "You successfully unlocked all premium features!";
+"expired" = "Your SunApp premium subscription is expired";
+"failed" = "Failed";
+"failed_to_retrieve" = "Could not retrieve product info.";
+"subscription_cancelled" = "Subscription was cancelled";
+"payment_invalid" = "Payment invalid";
+"not_authorized" = "Payment not authorized";
+"no_internet" = "Check your internet connection or try again later.";
+"premium" = "PREMIUM";
+"cancelled" = "Cancelled";
+"get_premium" = "GET PREMIUM";
+"settings" = "Settings";
+"payment_terms" = "Payment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.";
+"month" = "Month";
+"year" = "Year";
+"save_description" = "12 months at";
+"restore_subscription" = "Restore purchases";
+"could_not_verify" = "We were unable to verify your subscription credentials";
+"privacy_policy" = "Privacy policy";
+"terms_of_use" = "Terms of use";
+"search_for" = "Search for address or place";
+"search_here" = "Go to your current location";
+"search" = "Search";
+"here" = "Here";
+"center" = "Center";
+"placed" = "Placed";
+"street" = "Map";
+"satellite" = "Satellite";
+"mapview" = "2D Map View";
+"augmentedreality" = "Augmented Reality";
+"map_mode" = "Map mode";
+"here_help" = "Shows your current postion (blue point) on the map";
+"center_help" = "Shows the map position (black point) centered on the screen.";
+"placed_help" = "Show the map where the position (black point) can be moved around on the scrren.";
+"map_help" = "Change map style between street and satellite";
+"search_help" = "Search for address or place and goto a location anywhere in the world";
+"lifetime" = "Lifetime";
+"already_premium" = "You already have premium";
+"restored_lifetime" = "Your permanent premium purchase has been restored";
+"make_sure_cancel" = "Make sure your subscription is cancelled when buying lifetime access";
+"manage_subscription" = "Manage subscriptions";
+"continue" = "Continue";
+
+"recording_error" = "Recording error";
+"recording_error_desc" = "The screen recording feature is independent from SunApp, and it may have crashed. You may need to restart the device in order to fix this.";
+

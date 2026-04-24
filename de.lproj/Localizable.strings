@@ -1,0 +1,224 @@
+"app_name" = "SunApp";
+
+"live_button" = "Heute";
+"live_content" = "Live\nCONTENT";
+
+"locationDenied_title" = "Der Zugriff auf den Standort ist nicht möglich";
+
+"locationDenied" = "Der Standortdienst ist entscheidend für die Kernfunktionalität. Bitte gehen Sie zu Ihren Einstellungen und erteilen Sie die SunApp-Standortgenehmigung";
+
+"calibrate" = "Kalibrieren";
+"manual_calibration" = "Manuelle Kalibrierung";
+"calibrated" = "Kalibriert";
+"permissions_required" = "Berechtigungen sind erforderlich";
+
+"cancel" = "Abbrechen";
+
+"choose_date" = "Wählen Sie ein Datum";
+
+"save_error" = "Screenshot konnte nicht gespeichert werden";
+
+"saved" = "Gespeichert";
+"unfreeze" = "Der Orientierungswechsel ging aus dem Einfrieren heraus";
+"saved_to_photos" = "Ein Screenshot wurde auf Ihre Fotos gespeichert";
+
+"jan" = "Jan.";
+"january" = "Januar";
+"feb" = "Feb.";
+"february" = "Februar";
+"mar" = "Mär.";
+"marts" = "März";
+"apr" = "Apr.";
+"april" = "April";
+"may" = "Mai";
+"jun" = "Jun.";
+"june" = "Juni";
+"jul" = "Jul.";
+"july" = "Juli";
+"aug" = "Aug.";
+"august" = "August";
+"sep" = "Sep.";
+"september" = "September";
+"oct" = "Okt.";
+"october" = "Oktober";
+"nov" = "Nov.";
+"november" = "November";
+"dec" = "Dez.";
+"december" = "Dezember";
+
+"hours" = "Stunden";
+"error" = "Error";
+"north" = "Nord";
+"ne" = "NO";
+"east" = "Ost";
+"se" = "SO";
+"south" = "Süd";
+"sw" = "SW";
+"west" = "West";
+"nw" = "NW";
+
+"below_horizon" = "Aktuelle Ansicht ist unter dem Horizont";
+"horizon" = "Horizont";
+"location_unavailable" = "Ortungsfunktion nicht verfügbar";
+"details" = "Details";
+"location" = "Standort:";
+"manual_calibration_night" = "Sie können nicht manuell, den Kompass kalibrieren, weil die Sonne untergegangen ist. Sie können nur den Kompass zu kalibrieren, wenn sich die Position der Sonne über dem Horizont steht.";
+"compas_accuracy" = "Kompass-Genauigkeit:";
+"compass_not_responding" = "Kompass reagiert nicht";
+"unreliable" = "Unzuverlässige";
+"low" = "niedrig";
+"medium" = "mittel";
+"high" = "Hoch";
+"compass_warning" = "Bitte kalibrieren Sie den Kompass, aktuelle Genauigkeit ist:";
+
+"help" = "Hilfe";
+"data" = "Daten";
+"analemma" = "Toggle analemma";
+
+"loading" = "Laden…";
+"drag_the_yellow_circle_onto_the_sun" = "Ziehe Sie das gelbe sonnenbild auf die echte Sonne, um den Kompass zu kalibrieren";
+"live" = "Heute";
+"date" = "Datum";
+"line" = "Linie";
+"undo" = "Rückgängig";
+"clear" = "Löschen";
+"capture" = "Foto";
+"freeze" = "Einfrieren";
+"draw" = "Zeichen";
+
+"today" = "Heute";
+"sunrise" = "Sonnenaufgang";
+"sunset" = "Sonnenuntergang";
+"solar_noon" = "Sonnenmittag";
+"day_length" = "Tageslänge";
+"solstice_21_june" = "Sonnenwende (21. Juni)";
+"soltice_21_december" = "Sonnenwende (21. Dezember)";
+
+"calibrate_the_internal_compass" = "Kalibrieren Sie den Kompass, indem Sie Ihr Gerät wie folgt bewegen:";
+"you_can_also_manually_calibrate" = "Sie können auch manuell den Kompass kalibrieren, indem Sie auf die Sonne klicken. (Tun nur, wenn der Kompass aus um einen konstanten Faktor scheint)";
+"ok" = "OK";
+"reset" = "Rücksetzen";
+
+"language" = "Sprache";
+"choose_language" = "Wähle Sprache";
+"english" = "English";
+"danish" = "Dansk";
+"german" = "Deutsch";
+"spanish" = "Español";
+"french" = "Français";
+"portuguese" = "Português";
+
+"where_is_the_sun_at_a_given_time" = "Wo ist die Sonne zu einem bestimmten Zeitpunkt?";
+"where_the_sun_is_answer" = "Die Uhrzeit und das Datum am oberen Bildschirmrand ist immer mit dem auf dem Bildschirm angezeigten verbunden. Die Sonne steht im angegebenen Zeitraum auf dem gelben Kreis.\n\nDas Datum ändern, indem du auf den Kalender klickst oder den Bildschirm berührst, um dies auf die Sonnenposition zu setzen.\nSie können auch die Sonne entlang der aktuellen Datumsgrenze ziehen oder zur aktuellen Zeit springen indem Sie auf den Kreis klicken.";
+"what_does_the_lines_represent" = "Was zeigen die farbigen Linien?";
+"yellow_line" = "Gelbe Linie";
+"yellow_line_answer" = "Die gelbe Linie zeigt den Weg der Sonne zum definierten Datum. Sie können auch sehen, wo die Sonne stündlich sein wird.";
+"red_and_orange_line" = "Rote und orange Linie";
+"red_orange_answer" = "Diese Linien zeigen den Weg der Sonne am längsten (orange) und kürzesten (roten) Tag des Jahres. Die Sonne wird immer dazwischen sein.";
+"gray_line" = "Graue Linie";
+"gray_line_answer" = "Die graue Linie ist der Horizont.";
+"blue_line" = "Blaue Linie";
+"blue_line_answer" = "Die blaue Linie ist ein Analemma für die aktuelle Tageszeit. Es kann von den Einstellungen umgeschaltet werden und hat immer eine 8-Form. Es zeigt, wo die Sonne für das ganze Jahr zur aktuellen Tageszeit steht. Es ist der Weg, den die Sonne nehmen wird, wenn Sie ein Jahr lang jeden Tag zur gleichen Zeit ein Foto machen.";
+
+"button_descriptions" = "Tastenbeschreibungen";
+"freeze_button_help" = "Frieren Sie die Kamera und alle sensorischen Input.";
+"screenshot_help" = "Erstellen Sie einen Screenshot oder ein Video der aktuellen Ansicht.";
+"main_mode" = "Hauptmodus";
+"live_help" = "Hat einen Punkt in der Mitte, wenn die Zeit ist jetzt. Berühren Sie, um zur aktuellen Uhrzeit zu wechseln.";
+"day_select_help" = "Wählen Sie einen Tag, um den Weg der Sonne zu bekommen.";
+"draw_mode_help" = "Rufen Sie den Zeichenmodus auf, in dem Sie Sonnenstunden/Sonnenenergie durch Zeichnen entfernen können.";
+"draw_mode" = "Zeichenmodus";
+"straight_line_help" = "Toggle, um gerade Linien anstelle der freien Hand zu zeichnen.";
+"undo_line_help" = "Die letzte gezeichnete Linie rückgängig machen.";
+"clear_everything_help" = "Löschen Sie alles und fahren Sie mit dem Zeichnen fort";
+"the_sun_isn_t_at_the_shown_position" = "Die Sonne ist nicht an der angezeigten Position";
+"the_sun_isnt_at_the_shown_position_answer" = "Dies tritt normalerweise auf, wenn der Kompass seine Genauigkeit verliert. Dies kann leicht getan werden, wenn Sie Ihr Gerät in einer Metallabdeckung haben.\nProblem wird gelöst, indem Sie zum Menü gehen und wählen Sie kalibrieren und den Anweisungen folgen.\n\nEs scheint am besten, sein Gerät sehr um alle Achsen zu bewegen, was am besten erreicht wird, indem man es in eine achtstellige Figur um sich herum bewegt.\n\nSie können den Kompass auch manuell kalibrieren, indem Sie auf die Sonne klicken. aber es kalibriert nicht den Kompass selbst, es bewegt nur alles in Relation. Sie sollten dies nur tun, wenn der Fehler des Kompasses konstant erscheint.";
+
+"how_does_the_drawing_mode_work" = "Wie funktioniert der Zeichenmodus?";
+"how_drawing_mode_works_answer" = "Wenn Sie auf das Zeichnungssymbol tippen, werden neue Schaltflächen angezeigt, und Sie können zeichnen.\n\nDer Bereich zwischen der gezeichneten Linie und dem Horizont wird grau, und SunApp zeigt an, wie viele Stunden die Sonne im Jahr im grauen Bereich ist. Sie können auch in der linken oberen Ecke sehen, wie viele Sonnenstunden oder Sonnen energie (kWh/m2) Sie noch haben, wenn Sie die grauen Bereiche nicht zählen.\nSie können z. B. zeichne den Umriss eines Baumes und sieh dir an, wie viele zusätzliche Sonnenstunden du bekommst, indem du ihn ablegst.\n\nDer Frost friert die Kamera und den Kompass ein, sodass du die Kamera während des Zeichnens nicht ruhig halten musst.\n\nSie können gerade Linien zeichnen durch Drücken der Taste mit der geraden Linie.\n\nSie können auch die letzte Zeile, die Sie signiert haben, rückgängig machen, indem Sie auf Rückgängig oder Alles verwerfen drücken und neu beginnen.\n\nSie können die Einheiten zur Anzeige der Sonneneinstrahlung (kWh/m2) oder Sonnenstunden im Menü unter Einstellungen umschalten.";
+"why_are_there_two_dates_at_the_top" = "Warum gibt es zwei Daten an der Oben?";
+"two_dates_at_the_top_answer" = "Die Sonne wird zweimal im Jahr an einem beliebigen Punkt im Himmel sein, es werden beide angezeigt.\n\nSie können auf eines der Daten klicken, um das Datum als einziges Datum festzulegen.";
+"contact_title" = "Wenden Sie sich an SunApp";
+"contact_description" = "Wenn Sie Fragen oder Feedback zu SunApp haben, wenden Sie sich bitte an:";
+"advanced" = "Fortgeschritten";
+"sununits" = "Einheiten";
+"unitsTitle" = "Jährliche Sonneneinstrahlung in";
+"hourunit" = "Sonnenstunden";
+"solarirradiance" = "Bestrahlungsstärke";
+"record" = "Aufnehmen";
+"camerafunction" = "Kamerataste";
+"cameraTitle" = "Kameratastenfunktion";
+"takescreenshot" = "Mach ein Bildschirmfoto";
+"recordvideo" = "Ein Video aufnehmen";
+"recordingfinished" = "Aufnahme abgeschlossen";
+"editordelete" = "Möchten Sie Ihre Aufnahme bearbeiten oder löschen?";
+"edit" = "Bearbeiten";
+"delete" = "Löschen";
+
+"premium_title" = "SunApp Premium-Version";
+"premiumDesc1" = "Unbegrenzte Funktionen";
+"premiumDesc2" = "Zeichnen Sie AR-Schattenprofile und bringen Sie die Sonnenstunden oder -intensität (kWh/m2) für einen bestimmten Bereich am Himmel bis zum Horizont.";
+"premiumDesc3" = "Zeigen Sie auf den Bildschirm und SunApp zeigt Datum und Uhrzeit an. Die Sonne befindet sich an dieser Position.";
+"premiumDesc5" = "Wählen Sie ein Datum und sehen Sie den Sonnenpfad für den Tag am Himmel.";
+"premiumDesc6" = "Speichern Sie AR Live View als Bild- oder Videoaufnahme zur späteren Verwendung.";
+"premiumDesc7" = "Sehen Sie das Analemma der Sonne für eine bestimmte Zeit.";
+"premiumDesc8" = "Zeigt den Sonnenaufgang und den Sonnenuntergang für jeden Tag.";
+"premiumDesc9" = "Zeigt an, wie viel Sonnenlicht in Stunden oder Sonnenenergie (kWh / m2) während des Jahres in Ihre Position gelangen kann.";
+"premiumDesc4" = "Suchen Sie nach Adresse oder Ort und erhalten Sie das ganze Jahr über einen umfassenden Einblick in die Umlaufbahn der Sonne, die auf 2D-Karten angezeigt wird.";
+"premiumDesc10" = "";
+"mo" = "mo.";
+"yr" = "Jahr";
+"save" = "Sparen";
+"monthly" = "Monatlich";
+"yearly" = "Jährlich";
+
+"unknownError" = "Unbekannter Fehler. Bitte wenden Sie sich an den Support per E-Mail: support@casafox.dk";
+"restored" = "Ihr Abonnement wurde wiederhergestellt.";
+"no_subscription" = "Sie sind nicht abonniert";
+"no_restore" = "nichts wiederherzustellen.";
+"success" = "Erfolg";
+"subscribed" = "Du hast alle Premium-Funktionen erfolgreich freigeschaltet!";
+"expired" = "Ihr SunApp Premium-Abonnement ist abgelaufen";
+"failed" = "Gescheitert";
+"failed_to_retrieve" = "Produktinformationen konnten nicht abgerufen werden.";
+"subscription_cancelled" = "Das Abonnement wurde abgebrochen";
+"payment_invalid" = "Zahlung ungültig";
+"not_authorized" = "Zahlung nicht autorisiert";
+"no_internet" = "Überprüfen Sie Ihre Internetverbindung oder versuchen Sie es später erneut.";
+"premium" = "PREMIUM";
+"cancelled" = "Abgebrochen";
+"get_premium" = "PREMIUM BEKOMMEN";
+"settings" = "Einstellungen";
+"payment_terms" = "Die Zahlung wird Ihrem Apple ID-Konto bei der Kaufbestätigung in Rechnung gestellt. Das Abonnement wird automatisch verlängert, sofern es nicht mindestens 24 Stunden vor Ablauf des aktuellen Zeitraums gekündigt wird. Ihr Konto wird innerhalb von 24 Stunden vor Ablauf des laufenden Zeitraums für die Erneuerung belastet. Sie können Ihre Abonnements verwalten und kündigen, indem Sie nach dem Kauf Ihre App Store-Kontoeinstellungen aufrufen.";
+"month" = "Monat";
+"year" = "Jahr";
+"save_description" = "12 Monate bis";
+"restore_subscription" = "Einkäufe wiederherstellen";
+"could_not_verify" = "Wir konnten Ihre Anmeldeinformationen nicht bestätigen";
+"privacy_policy" = "Datenschutz-Bestimmungen";
+"terms_of_use" = "Nutzungsbedingungen";
+"search_for" = "Suche nach Adresse oder Ort";
+"search_here" = "Gehen Sie zu Ihrem aktuellen Standort";
+"search" = "Suche";
+"here" = "Hier";
+"center" = "Center";
+"placed" = "Platziert";
+"street" = "Karte";
+"satellite" = "Satellit";
+"mapview" = "2D-Kartenansicht";
+"augmentedreality" = "Augmented Reality";
+"map_mode" = "Kartenmodus";
+"here_help" = "Zeigt Ihre aktuelle Position (blauer Punkt) auf der Karte";
+"center_help" = "Zeigt die Kartenposition (schwarzer Punkt) auf dem Bildschirm zentriert.";
+"placed_help" = "Zeigen Sie die Karte, wo die Position (schwarzer Punkt) auf dem Bildschirm bewegt werden um.";
+"map_help" = "Ändern Karte zwischen Straße oder Satelliten-Ansicht";
+"search_help" = "Suchen und gehen an die Adresse oder Ort, überall auf der Welt";
+"lifetime" = "Lebensdauer";
+"already_premium" = "Sie haben bereits eine Premium";
+"restored_lifetime" = "Ihre ständige Prämie Kauf wurde restauriert";
+"make_sure_cancel" = "Sie müssen sicherstellen, dass Ihr monatliches oder jährliches Abonnement gekündigt wird, wenn Sie permanent Premium-Abonnement kaufen";
+"manage_subscription" = "Abonnements verwalten";
+"continue" = "Fortsetzen";
+
+"recording_error" = "Aufnahmefehler";
+"recording_error_desc" = "Die Bildschirmaufnahmefunktion ist unabhängig von SunApp und möglicherweise abgestürzt. Möglicherweise müssen Sie das Gerät neu starten, um dies zu beheben.";

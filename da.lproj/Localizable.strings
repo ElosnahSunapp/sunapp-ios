@@ -1,0 +1,224 @@
+"app_name" = "SunApp";
+
+"live_button" = "I dag";
+"live_content" = "Live\nCONTENT";
+
+"locationDenied_title" = "Kan ikke tilgå lokalitet";
+
+"locationDenied" = "Det er nødvendigt at tilgå din lokation for at udregne solens position. Venligt gå til dine indstillinger og giv SunApp tilladelse til at tilgå din lokation.";
+
+"calibrate" = "Kalibrer";
+"manual_calibration" = "Manuel kalibrering";
+"calibrated" = "Kalibreret";
+"permissions_required" = "Tilladelser er nødvendige";
+
+"cancel" = "Fortryd";
+
+"choose_date" = "Vælg en dato";
+
+"save_error" = "Kunne ikke gemme skærmbilledet";
+
+"saved" = "Gemt!";
+"unfreeze" = "Orienteringsskifte, gik ud af frys.";
+"saved_to_photos" = "Et skærmbillede er nu gemt blandt dine billeder";
+
+"jan" = "jan.";
+"january" = "januar";
+"feb" = "feb.";
+"february" = "februar";
+"mar" = "mar.";
+"marts" = "marts";
+"apr" = "apr.";
+"april" = "april";
+"may" = "maj";
+"jun" = "jun.";
+"june" = "juni";
+"jul" = "jul.";
+"july" = "juli";
+"aug" = "aug.";
+"august" = "august";
+"sep" = "sep.";
+"september" = "september";
+"oct" = "okt.";
+"october" = "oktober";
+"nov" = "nov.";
+"november" = "november";
+"dec" = "dec.";
+"december" = "december";
+
+"hours" = "timer";
+"error" = "Fejl";
+"north" = "Nord";
+"ne" = "NØ";
+"east" = "Øst";
+"se" = "SØ";
+"south" = "Syd";
+"sw" = "SV";
+"west" = "Vest";
+"nw" = "NV";
+
+"below_horizon" = "Synsfeltet er under horisonten";
+"horizon" = "Horisont";
+"location_unavailable" = "Placeringstjeneste er utilgængelig";
+"details" = "Detaljer";
+"location" = "Placering:";
+"manual_calibration_night" = "Du kan ikke kalibrere kompasset manuelt, da solen er gået ned. Kompasset kan kun kalibreres manuelt, når solen er over horisonten.";
+"compas_accuracy" = "Kompassets nøjagtighed: ";
+"compass_not_responding" = "Kompasset svarer ikke";
+"unreliable" = "Upålidelig";
+"low" = "Lav";
+"medium" = "Medium";
+"high" = "Høj";
+"compass_warning" = "Venligst kalibrer kompasset, nøjagtigheden er: ";
+
+"help" = "Hjælp";
+"data" = "Data";
+"analemma" = "Analemma til/fra";
+
+"loading" = "Indlæser...";
+"drag_the_yellow_circle_onto_the_sun" = "Træk billedet af den gule sol over på den rigtige sol for at kalibrere kompasset";
+"live" = "I dag";
+"date" = "Dato";
+"line" = "Linje";
+"undo" = "Fortryd";
+"clear" = "Kasser";
+"capture" = "Foto";
+"freeze" = "Frys";
+"draw" = "Tegn";
+
+"today" = "Idag";
+"sunrise" = "Solopgang";
+"sunset" = "Solnedgang";
+"solar_noon" = "Middag";
+"day_length" = "Dagens længde";
+"solstice_21_june" = "Solhverv (21. juni)";
+"soltice_21_december" = "Solhverv (21. december)";
+
+"calibrate_the_internal_compass" = "Kalibrer kompasset ved at bevæge din enhed på følgende måde:";
+"you_can_also_manually_calibrate" = "Du kan også kalibrere kompasset ved at klikke på solen. Dette skal du kun gøre, hvis kompassets fejl ser konstant ud.";
+"ok" = "Ok";
+"reset" = "Nulstil";
+
+"language" = "Sprog";
+"choose_language" = "Vælg sprog";
+"english" = "English";
+"danish" = "Dansk";
+"german" = "Deutsch";
+"spanish" = "Español";
+"french" = "Français";
+"portuguese" = "Português";
+
+"where_is_the_sun_at_a_given_time" = "Hvor er solen på et givent tidspunkt?";
+"where_the_sun_is_answer" = "Tidspunktet i toppen af skærmen er altid forbundet til, hvor solen vises. Solen er ved dens ikon på det givne tidspunkt.\n\nDu kan ændre datoen ved at klikke på kalender ikonet, eller tryk på skærmen for at finde ud af, hvornår solen er der.\nDu kan også trække solen langs den nuværende dagslinje eller gå tilbage til nuet, ved at trykke på cirkel-knappen.";
+"what_does_the_lines_represent" = "Hvad viser de farvede linjer?";
+"yellow_line" = "Gul linje";
+"yellow_line_answer" = "Den gule linje viser solens bane på en givet dato. Du kan også se, hvor solen er ved hver time på dagen.";
+"red_and_orange_line" = "Rød og orange linje";
+"red_orange_answer" = "Disse linjer viser solens baner ved solhverv. Dvs. den længste(orange) og korteste(rød) dag på året. På ethvert andet tidspunkt vil solen altid befinde sig imellem dem.";
+"gray_line" = "Grå linje";
+"gray_line_answer" = "Den grå linje er horisonten.";
+"blue_line" = "Blå linje";
+"blue_line_answer" = "Den blå linje er et analemma for det viste klokketidspunkt. Man kan slå det til og fra i indstillingerne, og linjen vil altid linje et 8-tal. Den viser hvornår solen er ved det pågældende klokkeslæt, men for hele året. Det er den bane solen ville tage, hvis man tog et billede hver dag på samme tidspunkt i et helt år.";
+
+"button_descriptions" = "Hvad knapperne gør";
+"freeze_button_help" = "Frys kameraet og alle enhedens sensorer.";
+"screenshot_help" = "Tag et billede eller optag video af, hvad der vises på skærmen.";
+"main_mode" = "Standard funktionalitet";
+"live_help" = "Har en prik i midten, når det nuværende tidspunkt vises. Tryk for at gå til nuet.";
+"day_select_help" = "Ændre solens bane til en selvvalgt dato";
+"draw_mode_help" = "Gå til tegnetilstand, hvor du kan fjerne solskinstimer eller solenergi ved at tegne.";
+"draw_mode" = "Tegnefunktionaliteten";
+"straight_line_help" = "Slå til for at tegne lige linjer";
+"undo_line_help" = "Fortryd den sidst tegnede linje";
+"clear_everything_help" = "Kasser og start forfra med at tegne";
+"the_sun_isn_t_at_the_shown_position" = "Solen er ikke ved den viste placering";
+"the_sun_isnt_at_the_shown_position_answer" = "Dette sker typisk når kompasset mister sin nøjagtighed. Det kan nemt ske, hvis du har din enhed i et metalcover.\nProblemet løses ved at gå til menuen og vælge kalibrer og følge instruktionerne.\n\nDet virker bedst at bevæge sin enhed meget rundt omkring alle dens akser, hvilket bedst opnås ved at bevæge den i en 8-tals figur rundt om dig selv.\n\nDu kan også kalibrere kompasset manuelt ved at klikke på solen, men det kalibrerer ikke selve kompasset, det flytter bare alt i forhold. Du bør kun gøre dette, hvis kompassets fejl ser ud til at være konstant.";
+
+"how_does_the_drawing_mode_work" = "Hvordan virker tegnefunktionaliteten?";
+"how_drawing_mode_works_answer" = "Når du trykker på tegneikonet kommer der nye knapper frem og du kan tegne.\n\nOmrådet mellem linjen du tegner og horisonten bliver grå, og SunApp viser, hvor mange timer solen eller sol energi, der er i det grå område i løbet af året. Du kan også se i øverste venstre hjørne, hvor mange solskinstimer eller (kWh/m2), du har tilbage, hvis man ikke tæller de grå områder med.\nDu kan f.eks. tegne omridset af et træ og se, hvor mange ekstra solskinstimer du får ved at fælde det.\n\nKnappen Frys, fryser kameraet og kompasset, så du ikke behøver at holde kameraet stille imens du tegner.\n\nDu kan tegne lige linjer ved at trykke på knappe med den lige linje.\n\nDu kan også fortryde den sidste linje du tegnede ved at trykke Fortryd eller  kassere det hele og starte forfra ved at trykke på Kasser\n\nDu kan skifte enheden mellem sol timer og sol irradians (kWh/m2) under Indstillinger i menuen.";
+"why_are_there_two_dates_at_the_top" = "Hvorfor er der to datoer i toppen?";
+"two_dates_at_the_top_answer" = "Solen vil altid være ved en given position på himlen to gange om året, den viser begge.\n\nDu kan trykke på en af datoerne og så forsvinder den anden, hvis du vil arbejde videre med den dato.";
+"contact_title" = "Kontakt SunApp";
+"contact_description" = "Hvis du har spørgsmål eller kommentarer vedr. SunApp, så kan du skrive til";
+"advanced" = "Avanceret";
+"sununits" = "Enheder";
+"unitsTitle" = "Se årlig soleksponering for";
+"hourunit" = "Solskinstimer";
+"solarirradiance" = "Irradians";
+"record" = "Optag";
+"camerafunction" = "Kameraknappen";
+"cameraTitle" = "Kameraknappens funktion";
+"takescreenshot" = "Tag et skærmbillede";
+"recordvideo" = "Optag video";
+"recordingfinished" = "Optagelsen er færdig";
+"editordelete" = "Vil du redigere eller slette din optagelse?";
+"edit" = "Rediger";
+"delete" = "Slet";
+
+"premium_title" = "SunApp Premium";
+"premiumDesc1" = "Ubegrænset funktionalitet";
+"premiumDesc2" = "Tegn AR skygge profil og få antallet af soltimer eller solintensitet  (kWh/m2) for et område på himmelen.";
+"premiumDesc3" = "Tryk på skærmen og SunApp viser dig datoen og tidspunktet for hvornår solen er præcis der.";
+"premiumDesc5" = "Vælg en dato og se solens bane på himlen.";
+"premiumDesc6" = "Gem AR Live View som billed eller videooptagelse til senere brug.";
+"premiumDesc7" = "Analemma, viser solens bane på et bestemt tidpunkt på dagen året rundt.";
+"premiumDesc8" = "Viser solopgang og solnedgang for enhver dato.";
+"premiumDesc9" = "Se hvor mange solskinstimer eller hvor stor solintensitet (kWh/m2) du kan få, hvor du er.";
+"premiumDesc4" = "Søg efter adresse eller sted og få fuld indsigt i solens bane vist på 2D kort, for en vilkårlig dato året rundt.";
+"premiumDesc10" = "";
+"mo" = "md.";
+"yr" = "år";
+"save" = "Spar";
+"monthly" = "Månedlig";
+"yearly" = "Årlig";
+
+"unknownError" = "Ukendt fejl. Kontakt venligst support på e-mail: support@casafox.dk";
+"restored" = "Dit abonnement er genoprettet.";
+"no_subscription" = "Du er ikke abonnent";
+"no_restore" = "kan ikke genoprette.";
+"success" = "Success";
+"subscribed" = "Du er succesfuldt åbnet for fuld funktionalitet!";
+"expired" = "Dit SunApp abonnement er udløbet";
+"failed" = "Fejlet";
+"failed_to_retrieve" = "Kunne ikke hente produkt information.";
+"subscription_cancelled" = "Abonnement var opsagt";
+"payment_invalid" = "Betaling ikke godkendt";
+"not_authorized" = "Betaling ikke autoriseret";
+"no_internet" = "Tjek din internet forbindelse eller prøv igen senere.";
+"premium" = "PREMIUM";
+"cancelled" = "Fortrudt";
+"get_premium" = "KØB PREMIUM";
+"settings" = "Indstillinger";
+"payment_terms" = "Betaling vil blive opkrævet på din Apple ID-konto ved købsbekræftelse. Abonnementet fornyes automatisk, medmindre det annulleres mindst 24 timer inden udgangen af den aktuelle periode. Din konto vil blive opkrævet for fornyelse inden for 24 timer inden udgangen af den aktuelle periode. Du kan administrere og annullere dine abonnementer ved at gå til dine App Store-kontoindstillinger efter køb.";
+"month" = "Måned";
+"year" = "År";
+"save_description" = "12 måneder til";
+"restore_subscription" = "Genskab køb";
+"could_not_verify" = "Vi kunne ikke bekræfte dine abonnementsoplysninger";
+"privacy_policy" = "Fortrolighedspolitik";
+"terms_of_use" = "Vilkår for brug";
+"search_for" = "Søg efter adresse eller sted";
+"search_here" = "Gå til din nuværende position";
+"search" = "Søg";
+"here" = "Her";
+"center" = "Centrer";
+"placed" = "Placeret";
+"street" = "Kort";
+"satellite" = "Satellit";
+"mapview" = "2D Kortvisning";
+"augmentedreality" = "Augmented Reality";
+"map_mode" = "Kort ";
+"here_help" = "Viser kortet med din aktuelle position (blå prik)";
+"center_help" = "Viser kortet med centrum af skærm som position (sort prik). Pladser den sorte pris på den position du gerne vil se solbanen fra.";
+"placed_help" = "Viser kortet hvor positionen (sort prik) kan bevæges rundt.";
+"map_help" = "Skift kort mellem gade eller satellit visning";
+"search_help" = "Søg efter adresse eller sted, hvor som helst i verden";
+"lifetime" = "Livstid";
+"already_premium" = "Du har allerede premium";
+"restored_lifetime" = "Dit permanente premium køb er blevet genoprettet";
+"make_sure_cancel" = "Du skal sikre dig at dit månedlige eller årlige abonnement er annulleret når du køber permanent premium abonnement";
+"manage_subscription" = "Administrer abonnement";
+"continue" = "Fortsæt";
+
+"recording_error" = "Optagelsesfejl";
+"recording_error_desc" = "Optagelsesfunktionaliteten er uafhængig af SunApp og har muligvis crashed. Vi erfarer, det ofte kan løses ved at genstarte enheden.";

@@ -1,0 +1,119 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/NewPopMenu/PopMenu.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NewPopMenu-umbrella.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/Target Support Files/NewPopMenu/NewPopMenu-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PopMenu-Swift.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/NewPopMenu/PopMenu.framework/Headers/PopMenu-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PopMenu.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/PopMenu.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/NewPopMenu/PopMenu.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Intermediates.noindex/Pods.build/Release-iphoneos/NewPopMenu.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/Pods_SunApp.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-SunApp-umbrella.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/Target Support Files/Pods-SunApp/Pods-SunApp-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_SunApp-Swift.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/Pods_SunApp.framework/Headers/Pods_SunApp-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/Pods_SunApp.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Intermediates.noindex/Pods.build/Release-iphoneos/Pods-SunApp.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/SwiftyStoreKit/SwiftyStoreKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyStoreKit-Swift.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/SwiftyStoreKit/SwiftyStoreKit.framework/Headers/SwiftyStoreKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyStoreKit-umbrella.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/Target Support Files/SwiftyStoreKit/SwiftyStoreKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/SwiftyStoreKit/SwiftyStoreKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Intermediates.noindex/Pods.build/Release-iphoneos/SwiftyStoreKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/TimeZoneLocate/TimeZoneLocate.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TimeZoneLocate-Swift.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/TimeZoneLocate/TimeZoneLocate.framework/Headers/TimeZoneLocate-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TimeZoneLocate-umbrella.h",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/Target Support Files/TimeZoneLocate/TimeZoneLocate-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Products/Release-iphoneos/TimeZoneLocate/TimeZoneLocate.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/philliplojmand/Dropbox/Sun App/ios/Places/DerivedData/Places/Build/Intermediates.noindex/Pods.build/Release-iphoneos/TimeZoneLocate.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

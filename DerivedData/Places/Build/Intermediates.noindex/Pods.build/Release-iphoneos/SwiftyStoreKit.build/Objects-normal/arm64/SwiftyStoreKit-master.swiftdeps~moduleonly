@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "253269b7256b9401f54c9f1cd06bbabb"
+build_time: [1571567723, 16145000]
+inputs:
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/AppleReceiptValidator.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/CompleteTransactionsController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/InAppProductQueryRequest.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/InAppReceipt.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/InAppReceiptRefreshRequest.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/InAppReceiptVerificator.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/OS.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/PaymentQueueController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/PaymentsController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/ProductsInfoController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/RestorePurchasesController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/SKProduct+LocalizedPrice.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/SwiftyStoreKit+Types.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/SwiftyStoreKit/SwiftyStoreKit/SwiftyStoreKit.swift": [9223372036, 854775807]

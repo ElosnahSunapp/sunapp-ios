@@ -1,0 +1,224 @@
+"app_name" = "SunApp";
+
+"live_button" = "Hoy";
+"live_content" = "Live\nCONTENT";
+
+"locationDenied_title" = "No se puede acceder a la ubicación";
+
+"locationDenied" = "Es necesario acceder a su ubicación para calcular la posición del sol. Vaya a su configuración y permita que SunApp acceda a su ubicación.";
+
+"calibrate" = "Calibrar";
+"manual_calibration" = "Calibracion manual";
+"calibrated" = "Calibrado";
+"permissions_required" = "Permisos requeridos";
+
+"cancel" = "Cancelar";
+
+"choose_date" = "Elige una fecha";
+
+"save_error" = "No se pudo guardar la captura de pantalla";
+
+"saved" = "Guardado!";
+"unfreeze" = "El cambio de orientación se ha paralizado";
+"saved_to_photos" = "Se guardó una captura de pantalla en tus fotos.";
+
+"jan" = "Ene.";
+"january" = "enero";
+"feb" = "Feb.";
+"february" = "febrero";
+"mar" = "Mar.";
+"marts" = "marzo";
+"apr" = "Abr.";
+"april" = "abril";
+"may" = "Mayo";
+"jun" = "Jun.";
+"june" = "junio";
+"jul" = "Jul.";
+"july" = "julio";
+"aug" = "Ago.";
+"august" = "agosto";
+"sep" = "Sep.";
+"september" = "septiembre";
+"oct" = "Oct.";
+"october" = "octubre";
+"nov" = "Nov.";
+"november" = "noviembre";
+"dec" = "Dic.";
+"december" = "diciembre";
+
+"hours" = "horas";
+"error" = "Error";
+"north" = "Norte";
+"ne" = "NE";
+"east" = "Este";
+"se" = "SE";
+"south" = "Sur";
+"sw" = "SO";
+"west" = "Oeste";
+"nw" = "NE";
+
+"below_horizon" = "La vista actual está por debajo del horizonte.";
+"horizon" = "Horizonte";
+"location_unavailable" = "Servicio de localización no disponible.";
+"details" = "Detalles";
+"location" = "Ubicación:";
+"manual_calibration_night" = "No puede calibrar la brújula manualmente, porque el sol se ha puesto. Solo puede calibrar la brújula cuando la posición del sol está por encima del horizonte.";
+"compas_accuracy" = "Precisión de la brújula:";
+"compass_not_responding" = "La brújula no responde";
+"unreliable" = "No fiable";
+"low" = "Bajo";
+"medium" = "Medio";
+"high" = "Alto";
+"compass_warning" = "Por favor calibre la brújula, la precisión actual es:";
+
+"help" = "Ayuda";
+"data" = "Datos";
+"analemma" = "Alternar analema";
+
+"loading" = "Cargando...";
+"drag_the_yellow_circle_onto_the_sun" = "Arrastre la imagen del sol amarillo al sol real para calibrar la brújula";
+"live" = "Hoy";
+"date" = "Fecha";
+"line" = "Línea";
+"undo" = "Deshacer";
+"clear" = "Claro";
+"capture" = "Capturar";
+"freeze" = "Congelar";
+"draw" = "Dibujar";
+
+"today" = "Hoy";
+"sunrise" = "Amanecer";
+"sunset" = "Puesta de sol";
+"solar_noon" = "Mediodia solar";
+"day_length" = "Dia largo";
+"solstice_21_june" = "Solsticio (21. junio)";
+"soltice_21_december" = "Solsticio (21. diciembre)";
+
+"calibrate_the_internal_compass" = "Calibre la brújula interna moviendo su dispositivo de la siguiente manera:";
+"you_can_also_manually_calibrate" = "También puede calibrar manualmente la brújula haciendo clic en el sol. (Solo haga esto si la brújula parece apagada por un factor constante)";
+"ok" = "Bueno";
+"reset" = "Reiniciar";
+
+"language" = "Idioma";
+"choose_language" = "Seleccione idioma";
+"english" = "Inglés";
+"danish" = "Dansk";
+"german" = "Deutsch";
+"spanish" = "Español";
+"french" = "Français";
+"portuguese" = "Português";
+
+"where_is_the_sun_at_a_given_time" = "Dónde está el sol en un momento dado?";
+"where_the_sun_is_answer" = "La hora y la fecha en la parte superior de la pantalla siempre están conectadas a lo que se muestra en la pantalla. El sol está en el círculo amarillo en el intervalo de tiempo dado.\n\nCambie la fecha haciendo clic en el calendario o toque la pantalla para establecer la posición de soles.\n También puede arrastrar el sol a lo largo de la línea de datos actual o saltar a la hora actual haciendo clic en el botón del círculo.";
+"what_does_the_lines_represent" = "Qué representan las líneas?";
+"yellow_line" = "Línea amarilla";
+"yellow_line_answer" = "La línea amarilla muestra la trayectoria del sol en la fecha definida. También puedes ver dónde estará el sol cada hora.";
+"red_and_orange_line" = "Linea roja y naranja";
+"red_orange_answer" = "Estas líneas muestran la trayectoria del sol en el día más largo (naranja) y más corto (rojo) del año. El sol siempre estará entre ellos.";
+"gray_line" = "Línea gris";
+"gray_line_answer" = "La línea gris es el horizonte.";
+"blue_line" = "Línea azul";
+"blue_line_answer" = "La línea azul es un analema para la hora actual del día. Puede cambiarse de configuración y siempre tendrá una forma de 8. Muestra dónde estará el sol en la hora actual del día durante todo el año. Es el camino que tomará el sol, si toma una foto todos los días a la misma hora durante un año.";
+
+"button_descriptions" = "Descripciones de botones";
+"freeze_button_help" = "Congela la cámara y toda la entrada sensorial.";
+"screenshot_help" = "Crea una captura de pantalla o un video de la vista actual.";
+"main_mode" = "Modo principal";
+"live_help" = "Tiene un punto en el medio si el tiempo está en directo. Toque para ir a la hora actual.";
+"day_select_help" = "Elige un día para obtener el camino del sol.";
+"draw_mode_help" = "Ingrese al modo de dibujo donde puede eliminar horas o energía solar dibujando.";
+"draw_mode" = "Modo de dibujo";
+"straight_line_help" = "Toggle para dibujar líneas rectas en lugar de a mano libre.";
+"undo_line_help" = "Deshacer la última línea dibujada.";
+"clear_everything_help" = "Borrar todo y restablecer el dibujo.";
+"the_sun_isn_t_at_the_shown_position" = "El sol no está en la posición mostrada";
+"the_sun_isnt_at_the_shown_position_answer" = "Esto suele suceder cuando la brújula pierde su precisión. Puede suceder fácilmente si mantiene su teléfono en una carcasa.\nPara solucionar este problema, vaya al menú de calibración y siga los pasos.\nEs mejor mover el teléfono mucho alrededor de todos los ejes, lo que también se puede hacer agitándolo o en forma de 8 y girándolo a tu alrededor.\n\nTambién puede calibrar manualmente haciendo clic en el sol. Esto no calibrará la brújula interna, solo moverá todo en consecuencia.\nSólo debe hacer esto si la brújula está apagada por un factor constante pero por lo demás precisa.";
+
+"how_does_the_drawing_mode_work" = "Cómo funciona el modo de dibujo?";
+"how_drawing_mode_works_answer" = "Si toca el ícono de dibujo, entrará en el modo de dibujo con nuevos botones.\n\nCuando dibuje, el área entre el horizonte y el trazo aparecerá en gris. Este modo le indica cuántas horas de sol o energía solar (kWh/m2) representa el área gris durante un año entero. Un ejemplo sería dibujar un borde alrededor de un árbol y ver cuántas horas de sol le daría para cortarlo.\n\nEl botón de congelación congela la cámara y la entrada sensorial de manera que no necesita sostener su dispositivo aún mientras dibuja.\n\nPuede dibujar líneas rectas con el botón de línea recta.\n\nTambién puede deshacer su última línea tocando Deshacer o Borrar todo para comenzar de nuevo por completo el dibujo.\n\nPuede cambiar las unidades para representar la irradiancia solar (kWh / m2) o las horas de sol en el menú en Ajustes.";
+"why_are_there_two_dates_at_the_top" = "Por qué hay dos fechas en la parte superior?";
+"two_dates_at_the_top_answer" = "El sol estará en un punto dado en el cielo dos veces durante el año, muestra ambos.\n\nPuede hacer clic en cualquiera de las fechas para establecerlo como la única fecha actual.";
+"contact_title" = "Póngase en contacto con el soporte de SunApp";
+"contact_description" = "Si tiene alguna pregunta o comentario sobre SunApp, no dude en contactarnos en:";
+"advanced" = "Avanzado";
+"sununits" = "Unidades";
+"unitsTitle" = "Obtener la exposición anual al sol para";
+"hourunit" = "Horas de sol";
+"solarirradiance" = "Irradiancia";
+"record" = "Grabar";
+"camerafunction" = "Botón de camara";
+"cameraTitle" = "Función de botón de la cámara";
+"takescreenshot" = "Tomar una captura de pantalla";
+"recordvideo" = "Grabar video";
+"recordingfinished" = "Grabación terminada";
+"editordelete" = "Te gustaría editar o borrar tu grabación?";
+"edit" = "Editar";
+"delete" = "Borrar";
+
+"premium_title" = "SunApp Versión Premium";
+"premiumDesc1" = "Funciones ilimitadas.";
+"premiumDesc2" = "Dibuje los perfiles de sombra AR y obtenga las horas de sol o intensidad (kWh / m2) para un área específica en el cielo hasta el horizonte.";
+"premiumDesc3" = "Punto en la pantalla y SunApp mostrará la fecha y la hora, el sol estará en esta posición.";
+"premiumDesc5" = "Elija una fecha y vea la trayectoria del sol en el cielo durante el día.";
+"premiumDesc6" = "Guarde AR Live View como una imagen o captura de video para su uso posterior.";
+"premiumDesc7" = "Ver el analema del sol en un momento dado.";
+"premiumDesc8" = "Muestra el amanecer y el atardecer de cada día.";
+"premiumDesc9" = "Muestra la cantidad de luz solar, en horas o energía solar (kWh/m2), que puede obtener en su posición durante el año.";
+"premiumDesc4" = "Busque la dirección o ubicación y obtenga una visión completa de la órbita del sol que se muestra en los mapas 2D, para cualquier fecha durante todo el año.";
+"premiumDesc10" = "";
+"mo" = "mes.";
+"yr" = "año";
+"save" = "Salvar";
+"monthly" = "Mensual";
+"yearly" = "Anual";
+
+"unknownError" = "Error desconocido. Póngase en contacto con el servicio de asistencia por correo electrónico: support@casafox.dk";
+"restored" = "Su suscripción ha sido restaurada.";
+"no_subscription" = "No estas suscrito";
+"no_restore" = "Nada que restaurar.";
+"success" = "Éxito";
+"subscribed" = "¡Has desbloqueado con éxito todas las funciones premium!";
+"expired" = "Su suscripción premium de SunApp ha caducado";
+"failed" = "Ha fallado";
+"failed_to_retrieve" = "No se pudo recuperar la información del producto.";
+"subscription_cancelled" = "Se canceló la suscripción";
+"payment_invalid" = "Pago inválido";
+"not_authorized" = "Pago no autorizado";
+"no_internet" = "Compruebe su conexión a Internet o intente de nuevo más tarde.";
+"premium" = "PREMIUM";
+"cancelled" = "Cancelado";
+"get_premium" = "OBTENER PREMIUM";
+"settings" = "Ajustes";
+"payment_terms" = "El pago se cargará a su cuenta de Apple ID en la confirmación de la compra. La suscripción se renueva automáticamente a menos que se cancele al menos 24 horas antes del final del período actual. Se le cobrará a su cuenta la renovación dentro de las 24 horas anteriores al final del período actual. Puede administrar y cancelar sus suscripciones en la configuración de su cuenta de App Store después de la compra.";
+"month" = "Mes";
+"year" = "Año";
+"save_description" = "12 meses para";
+"restore_subscription" = "Restaurar las compras";
+"could_not_verify" = "No hemos podido verificar sus credenciales de suscripción";
+"privacy_policy" = "Política de privacidad";
+"terms_of_use" = "Términos de Uso";
+"search_for" = "Búsqueda por dirección o lugar";
+"search_here" = "Vaya a su ubicación actual";
+"search" = "Buscar";
+"here" = "Aquí";
+"center" = "Centro";
+"placed" = "Situado";
+"street" = "Mapa";
+"satellite" = "Satélite";
+"mapview" = "2D mapa";
+"augmentedreality" = "Realidad Aumentada";
+"map_mode" = "Modo de mapa";
+"here_help" = "Muestra el mapa con su ubicación actual (punto azul)";
+"center_help" = "Muestra la posición del mapa (punto negro) centrada en la pantalla.";
+"placed_help" = "Mostrando el mapa donde la posición (punto negro) se puede mover alrededor.";
+"map_help" = "El cambio del mapa entre la calle o al satélite";
+"search_help" = "Buscar e ir a la dirección o lugar, en cualquier parte del mundo";
+"lifetime" = "Toda la vida";
+"already_premium" = "Ya tiene prima";
+"restored_lifetime" = "Su compra prima permanente ha sido restaurada";
+"make_sure_cancel" = "Asegúrese de que su suscripción se cancela la compra de acceso de por vida";
+"manage_subscription" = "Administrar Suscripciones";
+"continue" = "Continuar";
+
+"recording_error" = "Error de grabación";
+"recording_error_desc" = "La función de grabación de pantalla es independiente de SunApp y puede haberse bloqueado. Es posible que deba reiniciar el dispositivo para solucionarlo.";

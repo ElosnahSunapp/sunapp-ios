@@ -1,0 +1,8 @@
+/* 
+  Localisation.strings
+  Places
+
+  Created by Phillip Løjmand on 06/09/2018.
+  Copyright © 2018 casafox. All rights reserved.
+*/
+"below_horizon" = "Current view is below the horizon";

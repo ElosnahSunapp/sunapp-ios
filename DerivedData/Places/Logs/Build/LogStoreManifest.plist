@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0567156F-041E-4ECC-A986-AE4F5D6DDA55</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0567156F-041E-4ECC-A986-AE4F5D6DDA55.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Places</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Places</string>
+			<key>timeStartedRecording</key>
+			<real>593261238.443205</real>
+			<key>timeStoppedRecording</key>
+			<real>593261239.51321304</real>
+			<key>title</key>
+			<string>Build Places</string>
+			<key>uniqueIdentifier</key>
+			<string>0567156F-041E-4ECC-A986-AE4F5D6DDA55</string>
+		</dict>
+		<key>22134DC3-7CDA-44F7-B1B9-5BA934701C6D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22134DC3-7CDA-44F7-B1B9-5BA934701C6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Places</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Places</string>
+			<key>timeStartedRecording</key>
+			<real>593261265.46242404</real>
+			<key>timeStoppedRecording</key>
+			<real>593261266.12686896</real>
+			<key>title</key>
+			<string>Build Places</string>
+			<key>uniqueIdentifier</key>
+			<string>22134DC3-7CDA-44F7-B1B9-5BA934701C6D</string>
+		</dict>
+		<key>408F1940-A4CA-4CB5-AB09-3E5A9B46167B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>408F1940-A4CA-4CB5-AB09-3E5A9B46167B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Places</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Places</string>
+			<key>timeStartedRecording</key>
+			<real>593261183.25220394</real>
+			<key>timeStoppedRecording</key>
+			<real>593261184.57949197</real>
+			<key>title</key>
+			<string>Build Places</string>
+			<key>uniqueIdentifier</key>
+			<string>408F1940-A4CA-4CB5-AB09-3E5A9B46167B</string>
+		</dict>
+		<key>8149F9F3-6B9E-4466-97B9-3B57BAD20686</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8149F9F3-6B9E-4466-97B9-3B57BAD20686.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Places</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Places</string>
+			<key>timeStartedRecording</key>
+			<real>593261214.69888902</real>
+			<key>timeStoppedRecording</key>
+			<real>593261216.01044202</real>
+			<key>title</key>
+			<string>Build Places</string>
+			<key>uniqueIdentifier</key>
+			<string>8149F9F3-6B9E-4466-97B9-3B57BAD20686</string>
+		</dict>
+		<key>92DE3778-4537-4381-96EB-FA5E8E9D8F1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92DE3778-4537-4381-96EB-FA5E8E9D8F1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Places</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Places</string>
+			<key>timeStartedRecording</key>
+			<real>593261314.74134099</real>
+			<key>timeStoppedRecording</key>
+			<real>593261315.28044498</real>
+			<key>title</key>
+			<string>Build Places</string>
+			<key>uniqueIdentifier</key>
+			<string>92DE3778-4537-4381-96EB-FA5E8E9D8F1C</string>
+		</dict>
+		<key>B261B1C8-47E2-4C6C-A360-823698C6D498</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B261B1C8-47E2-4C6C-A360-823698C6D498.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SunApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Places</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Places</string>
+			<key>timeStartedRecording</key>
+			<real>593261231.36107099</real>
+			<key>timeStoppedRecording</key>
+			<real>593261232.58017004</real>
+			<key>title</key>
+			<string>Build Places</string>
+			<key>uniqueIdentifier</key>
+			<string>B261B1C8-47E2-4C6C-A360-823698C6D498</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "1d4c8bd52ffc5615abc27ac639bf8775"
+build_time: [1571567720, 559171000]
+inputs:
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Classes/Helpers/Haptics.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/View Controller & Views/PopMenuAction.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Classes/PopMenuAppearance.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Transitions/PopMenuDismissAnimationController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Classes/Helpers/PopMenuGradientView.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Classes/PopMenuManager.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Transitions/PopMenuPresentAnimationController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/View Controller & Views/PopMenuViewController.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Classes/Helpers/UIColor+Contrast.swift": [9223372036, 854775807]
+  "/Users/philliplojmand/Dropbox/Sun App/ios/Places/Pods/NewPopMenu/PopMenu/Classes/Helpers/UIView+Shadows.swift": [9223372036, 854775807]

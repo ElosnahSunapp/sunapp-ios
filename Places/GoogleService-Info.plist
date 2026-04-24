@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>650620738557-1vi18m0avp26a97e1tbj0sg5g3or9nsr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.650620738557-1vi18m0avp26a97e1tbj0sg5g3or9nsr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAh_zKDXl0MH4i7mIkGV2O3H4zXAGyq4FE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>650620738557</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dk.casafox.sunapp</string>
+	<key>PROJECT_ID</key>
+	<string>sun-app-207515</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sun-app-207515.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:650620738557:ios:9e7dbc019a522519cdd794</string>
+</dict>
+</plist>
